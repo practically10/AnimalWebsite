@@ -1,0 +1,46 @@
+<style>
+          .container {
+         margin-top:5px;
+         margin-left:5px;
+         }
+         .container ul {
+         color: #E59934;
+         }
+         .container ul li {
+         margin: 15px;
+         margin-top: 25px;
+         padding:5px;
+         width: 270px;
+         height: 180px;
+         float: left; 
+         border: 1px solid rgb(243, 73, 73);
+         list-style:none;
+         }
+         .container ul li:hover {
+         border: 1px solid blue;
+         }
+
+         .desc {
+            padding: 10px;
+            text-align: center;
+            color:black;
+         }
+         nav{
+            background-color: #273032;
+            color: #FFF;
+            padding: 10px;
+            display: flex;
+          }
+            
+          ul {
+            margin: 0px;
+          }
+          li {
+            list-style: none;
+            display: inline;
+            margin-right: 15px;
+          }
+          a {
+            color: pink;
+          }
+      </style>
